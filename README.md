@@ -1,3 +1,5 @@
+This is a compilation of materials for my projecst in the course DSC 680 (Applied Data Science) at Bellevue University. These projects aims to build a machine learning models that has the capability to predict, with great accuracy.
+
 # DSC-680
 #### Project 1
 Cardiovascular diseases are the number one cause of death globally, taking an estimated of 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Heart failure occurs when the heart cannot pump enough blood to meet the needs of the body. Machine learning applied to medical records, in particular, can be an effective tool both to predict the survival of each patient having heart failure symptoms (Latha, 2019), and to detect the most important clinical features (or risk factors) that may lead to heart failure (Lawler, 2019). Scientists can take advantage of machine learning not only for clinical prediction, but also for feature ranking. The incorporation of machine learning and data science has the potential to impact on clinical practice in the health care field, becoming a new supporting tool for physicians when predicting if a heart failure patient will survive or not. Indeed, medical doctors aiming at understanding if a patient will survive after heart failure may focus mainly on serum creatinine and ejection fraction (Chicco, 2020). This project seeks to analyze and understand to see if we can create a predictive modeling to know when a patient will have a heart failure disease based on their given health attributes. It furthers test different machine learning models to find the most suitable predictive model.
@@ -15,7 +17,7 @@ The dataset used in this project is publicly available on Kaggle website and can
 - Complete project code
 - Video presentation
 
-This is a compilation of materials for my first project in the course DSC 680 (Applied Data Science) at Bellevue University. This project aims to build a machine learning model that has the capability to predict, with great accuracy, when a credit card transaction presents as being fraudulent. Beginning with exploratory data analysis, I use machine learning algorithms to understand and work through these data. By exploring the data set and understanding trends, I build and train a model to predict which transactions are fraudulent, ultimately aiming to test and select the most accurate model for this set of data.
+Beginning with exploratory data analysis, I use machine learning algorithms to understand and work through these data. By exploring the data set and understanding trends, I build and train a model to predict which transactions are fraudulent, ultimately aiming to test and select the most accurate model for this set of data.when a credit card transaction presents as being fraudulent. 
 
 ##### Project 3
 # A Data Story about a Bike that Goes Nowhere
